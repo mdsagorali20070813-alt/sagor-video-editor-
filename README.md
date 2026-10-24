@@ -1,2 +1,1 @@
-# sagor-video-editor-
-sagor-video-editor&amp;
+sagor-video-editor
